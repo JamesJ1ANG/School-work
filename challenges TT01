@@ -1,0 +1,6 @@
+import turtle
+j=input("What would you like me to write?")
+turtle.write("hello there")
+turtle.forward(-100)
+turtle.forward(200)
+turtle.shape("turtle")
