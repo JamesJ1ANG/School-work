@@ -1,0 +1,4 @@
+number = 0
+while number < 2 or number > 2 :
+    print("please choose witch subject do you like? 1 English 2 Computer Science 3 Music 4 Science")
+    number = int(input("enter a number:"))
