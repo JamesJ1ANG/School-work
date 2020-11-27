@@ -1,0 +1,8 @@
+height = 178
+yourheight = int(input("what is your height?"))
+if height > yourheight:
+    print("wow i am taller than you")
+if height < yourheight:
+    print("look like you are taller than me")or("i need to became more taller")
+if height == yourheight:
+    print("look like we are same")
