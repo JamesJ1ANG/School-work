@@ -1,0 +1,3 @@
+MyList = ["Steve","Tachanka","Michael De Santa","John Price","Aiden Pearce"]
+MyList.sort()
+print(*MyList[0:5],sep=", ")
