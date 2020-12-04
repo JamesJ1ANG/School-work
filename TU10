@@ -1,0 +1,5 @@
+import random 
+Choose_Name = ["Mike","Tim","James","Tom","Jean"] 
+print ("we will give you a name")
+random_num = random.choice(Choose_Name)  
+print ("your random name is : " + str(random_num)) 
